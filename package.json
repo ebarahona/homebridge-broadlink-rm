@@ -26,7 +26,7 @@
   "dependencies": {
     "broadlinkjs-rm": "^0.6.0",
     "chai": "^4.1.2",
-    "github-version-checker": "^1.2.0",
+    "github-version-checker": "^2.3.0",
     "homebridge-platform-helper": "1.0.8",
     "ping": "^0.2.2",
     "uuid": "^3.2.1"
